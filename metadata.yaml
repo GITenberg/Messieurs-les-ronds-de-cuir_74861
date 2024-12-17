@@ -1,0 +1,45 @@
+_repo: Messieurs-les-ronds-de-cuir_74861
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Schwob, Marcel
+    aliases:
+    - Loyson-Bridet
+    - Schwob, Mayer André Marcel
+    - Schwob, Mayer Andre Marcel
+    birthdate: 1867
+    deathdate: 1905
+    gutenberg_agent_id: '7814'
+    url: http://www.gutenberg.org/2009/agents/7814
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Marcel_Schwob
+    - https://fr.wikipedia.org/wiki/Marcel_Schwob
+  illustrator:
+    agent_name: Sem
+    gutenberg_agent_id: '57692'
+    url: http://www.gutenberg.org/2009/agents/57692
+creator:
+  author:
+    agent_name: Courteline, Georges
+    gutenberg_agent_id: '57691'
+    url: http://www.gutenberg.org/2009/agents/57691
+description: ''
+gutenberg_issued: '2024-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74861'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k1525863r
+pgterms:marc905: 20241001222536courteline
+pgterms:marc906: '1927'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bJaval et Bourdeaux, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Messieurs les ronds-de-cuir
+url: http://www.gutenberg.org/ebooks/74861
