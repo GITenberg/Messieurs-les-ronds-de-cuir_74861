@@ -18,12 +18,17 @@ contributor:
     agent_name: Sem
     gutenberg_agent_id: '57692'
     url: http://www.gutenberg.org/2009/agents/57692
+covers:
+- cover_type: archival
+  image_path: 74861-h/images/cover.jpg
 creator:
   author:
     agent_name: Courteline, Georges
     gutenberg_agent_id: '57691'
     url: http://www.gutenberg.org/2009/agents/57691
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74861#Messieurs-les-ronds-de-cuir
 gutenberg_issued: '2024-12-08'
 gutenberg_type: Text
 identifiers:
